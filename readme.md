@@ -1,6 +1,8 @@
 
 # Application 1
 
+Gabriel Saborido  4679215
+
 ## Analysis/Engineering
 
 ### Q1: Does anything happen to the LED if you increase the delay within the print task? What if you increase the number of characters printed? 
