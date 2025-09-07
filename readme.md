@@ -15,7 +15,7 @@ Starvation occurs and the blink task doesn't even run. The LED stays OFF and the
 
 I chose the healthcare application. These messages need to be expressive without being complicated. As long as the patients information can be displayed to themselves or the medical team without causing confusion, then the system is successful. When a system such as a heartbeat monitor is correct and predictable, the medical team responsible for monitoring the patients heartbeat can have an accurate and consistent measurement of the patients state.
 
-### Q4: Q4. Identify/Verify the period of each task; you can try to do this via the simulator, or perhaps by printing data to the console, or connect the outputs to the logic analyzer.
+### Q4: Identify/Verify the period of each task; you can try to do this via the simulator, or perhaps by printing data to the console, or connect the outputs to the logic analyzer.
 
 ### a. Describe how you measure the periods:
 
