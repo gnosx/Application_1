@@ -1,5 +1,7 @@
 
-# Application 1
+# Application 1 Real-Time Task Basics:  Blinking LED and Console Output (Setup and Scheduling)
+
+Thematic Context: Healthcare
 
 Gabriel Saborido  4679215
 
